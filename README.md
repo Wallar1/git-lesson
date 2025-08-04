@@ -22,3 +22,7 @@ Git checkout can restore files and check out specific commits.
 
 restore file: `git checkout HEAD~1 -- file.txt'
 check out commit: `git checkout <hash>`
+
+## merging
+git switch main
+git merge <other branch>
